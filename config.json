@@ -1,6 +1,6 @@
 {
-    "api_token": "",
-    "gmap_key": "",
+    "api_token": "346722201:AAFQPC0pJFZjfMl-DpCAeWclCVqz0zprK9U",
+    "gmap_key": "4C2W2X2Q9U9R4J6N9H7Y",
     "port": 4000,
     "mongodb": "mongodb://localhost/pogobot",
     "watchlist": [
